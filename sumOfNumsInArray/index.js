@@ -1,0 +1,1 @@
+//write a function that take in an array of numbers and return the sum of those numbers. 

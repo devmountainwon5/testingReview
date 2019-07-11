@@ -1,0 +1,1 @@
+//Write a function that take in a string(should be a sentence) and capatilizes the first character of each word.  

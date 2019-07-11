@@ -1,0 +1,1 @@
+// Write a function that takes in two numbers and returns the sum.
